@@ -1,0 +1,13 @@
+.env
+.venv/
+.idea/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+agent_memory.json
+.DS_Store
+
+# Deliverables kept locally, not in the repo
+*.pdf
+*.pptx
+saga_memory.json

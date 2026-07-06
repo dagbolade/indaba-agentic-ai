@@ -12,13 +12,13 @@ Title, why agents now, the sovereign-intelligence lens, roadmap and a quick poll
 One model call is not an agent. Perceive, reason, act. Agent vs. chatbot. Anatomy: model,
 instructions, tools, memory. Meet the griot.
 
-## Segment 2: Memory in conversational AI (20 min)
-Stateless models; the context window; short vs. long term; what to forget. Run
-`01_short_term_memory.ipynb`: watch tokens climb, then summarise.
-
-## Segment 3: Building an agent in Python, live (20 min)
+## Segment 2: Building an agent in Python, live (20 min)
 `00_minimal_agent.ipynb`: load a small open model, one call, a first tool, in-session memory,
 watch it forget on restart.
+
+## Segment 3: Memory in conversational AI (20 min)
+Stateless models; the context window; short vs. long term; what to forget. Run
+`01_short_term_memory.ipynb`: watch tokens climb, then summarise.
 
 ## Segment 4: Giving agents tools, live (15 min)
 `04_agent_tools.ipynb`: the model is frozen in time and cannot know the current weather; give

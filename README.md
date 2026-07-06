@@ -76,8 +76,8 @@ works, just more slowly.
 
 1. **Welcome & framing** (5 min): why agents, why now, why it matters for Africa
 2. **What is an AI agent?** (20 min): perceive, reason, act; agents vs. chatbots
-3. **Memory in conversational AI** (20 min): short-term vs. long-term; what to forget
-4. **Building an agent in Python** (20 min): *live coding,* notebook `00`
+3. **Building an agent in Python** (20 min): *live coding,* notebook `00`
+4. **Memory in conversational AI** (20 min): short-term vs. long-term; what to forget; *live coding,* notebook `01`
 5. **Giving agents tools** (15 min): *live coding,* notebook `04`
 6. **Persistent memory with embeddings** (20 min): *live coding,* notebook `02`
 7. **Talking to our griot** (10 min): an extended live conversation, and proving it remembers across a restart
